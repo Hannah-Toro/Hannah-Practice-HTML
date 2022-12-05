@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    border: 5px;
+    text-align: center;
+}
+
+button {
+    border-radius: 10px;
+}
